@@ -21,7 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 This project uses API from openweathermap.org, to get this API, first create a account on openweathermap.org, then after the account is created 
-go to this link [API key](https://home.openweathermap.org/api_keys) where you'll find your API key 
+go to this link [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys) where you'll find your API key 
 
 Create your own .env file with this syntax OPENWEATHERMAP_API_KEY = YOUR API KEY HERE 
 and the project should be working fine.
